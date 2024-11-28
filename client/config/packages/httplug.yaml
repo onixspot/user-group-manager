@@ -1,0 +1,11 @@
+httplug:
+    plugins:
+        retry:
+            retry: 1
+
+    discovery:
+        client: 'auto'
+
+    clients:
+        api:
+            factory: 'httplug.factory.guzzle7'

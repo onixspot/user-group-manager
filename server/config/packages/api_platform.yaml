@@ -1,0 +1,17 @@
+api_platform:
+    title: Hello API Platform
+    version: 1.0.0
+    defaults:
+        stateless: true
+        cache_headers:
+            vary: [ 'Content-Type', 'Authorization', 'Origin' ]
+        defaults:
+            url_generation_strategy: !php/const ApiPlatform\Metadata\UrlGeneratorInterface::ABS_PATH
+
+    show_webby: false
+
+    enable_swagger: true
+    enable_swagger_ui: true
+
+    formats:
+        json: [ 'application/json' ]

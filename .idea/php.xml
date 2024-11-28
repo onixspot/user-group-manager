@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/client/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/client/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/client/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/client/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/client/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/client/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/client/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/client/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/httplug-bundle" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/stopwatch-plugin" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/logger-plugin" />
+      <path value="$PROJECT_DIR$/client/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/client/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/client/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/client/vendor/composer" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/client/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/client/vendor/php-http/guzzle7-adapter" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/client/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/client/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/client/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/client/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/client/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/client/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/client/vendor/psr/http-factory" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.4" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
